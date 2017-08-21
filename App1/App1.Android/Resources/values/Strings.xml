@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+  <string name="app_name">MatriUNED</string>
+
+
+  <string name="insMatricula">Sistema de Matricula</string>
+  <string name="insCompletarDatos">Complete los siguientes datos</string>
+  <string name="insNumCentroUniversitario">Centro Universitario</string>
+  <string name="insCedula">Número de cédula</string>
+  <string name="insNombre">Nombre</string>
+  <string name="insResidencia">Lugar de residencia</string>
+  <string name="insSeleccioneResidencia">Seleccione su residencia</string>
+  <string name="insCodigoMateria">Código Materia</string>
+  <string name="insNombreMateria">Nombre Materia</string>
+  <string name="insCuatrimestre">Cuatrimestre</string>
+  <string name="insCosto">Costo</string>
+  <string name="insAccionMatricular">Matricular</string>
+
+  <string name="CamposRequeridos">Verifique los valores ingresados, debe completar todos los campos</string>
+  <string name="ExitoProcesarMatricula">La matricula se ha realizado exitosamente</string>
+  <string name="ErrorProcesarMatricula">Ha ocurrido un error al intentar realizar la matricula, intente de nuevo o contacte al centro universitario más cercano</string>
+
+  <string-array name="provincias_array">
+    <item>San José</item>
+    <item>Alajuela</item>
+    <item>Cartago</item>
+    <item>Heredia</item>
+    <item>Guanacaste</item>
+    <item>Puntarenas</item>
+    <item>Limón</item>
+  </string-array>
+  
+</resources>
